@@ -1,3 +1,3 @@
 # demo
-this s my first Git repository. <br>
+this is my first Git repository. <br>
 Author - Shashank
